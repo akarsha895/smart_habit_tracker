@@ -19,6 +19,7 @@ The Smart Habit Tracker is a Node.js application designed to help users track th
 
 1. Clone the repository:
    git clone https://github.com/yourusername/smart-habit-tracker.git
+   
    cd smart-habit-tracker
    
 2.Install the dependencies:
