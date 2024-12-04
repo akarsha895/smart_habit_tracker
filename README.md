@@ -30,8 +30,8 @@ Start the server:
 node src/app.js
 
 API Endpoints:
+
 1. Add Habit
-   
 Endpoint: POST /habits
 Request Body:
 json
@@ -60,7 +60,7 @@ json
     "error": "Name and daily goal are required."
 }
 
-3. Update Habit
+2. Update Habit
 Endpoint: PUT /habits/:id
 Description: Marks a habit as complete for the day.
 Response:
@@ -81,7 +81,7 @@ json
     "error": "Habit not found."
 }
 
-4. Get Habits
+3. Get Habits
 Endpoint: GET /habits
 Response:
 Success (200):
@@ -100,7 +100,7 @@ json
     "error": null
 }
 
-5. Weekly Report
+4. Weekly Report
 Endpoint: GET /habits/report
 Response:
 Success (200):
