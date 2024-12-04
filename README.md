@@ -19,8 +19,10 @@ The Smart Habit Tracker is a Node.js application designed to help users track th
 1. Clone the repository:
    git clone https://github.com/yourusername/smart-habit-tracker.git
    cd smart-habit-tracker
+   
 2.Install the dependencies:
 npm install
+
 3.Running the Application
 Start the server:
 node src/app.js
@@ -54,6 +56,7 @@ json
     "data": null,
     "error": "Name and daily goal are required."
 }
+
 2. Update Habit
 Endpoint: PUT /habits/:id
 Description: Marks a habit as complete for the day.
@@ -67,7 +70,6 @@ json
     },
     "error": null
 }
-
 Error (404):
 json
 {
