@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Drink Water",
+    "completed": true,
+    "dailyGoal": "8 glasses"
+  },
+  {
+    "name": "Exercise",
+    "completed": false,
+    "dailyGoal": "3 pushups"
+  },
+  {
+    "name": "Cooking",
+    "completed": true,
+    "dailyGoal": "2 dishes"
+  },
+  {
+    "name": "Eat food",
+    "completed": true,
+    "dailyGoal": "3 times"
+  },
+  {
+    "name": "Exercise!!!",
+    "completed": false,
+    "dailyGoal": "3 situps"
+  },
+  {
+    "name": "Drink water!!!",
+    "completed": false,
+    "dailyGoal": "drint 3 litres of water a day"
+  },
+  {
+    "name": "Drink water!!!",
+    "completed": false,
+    "dailyGoal": "drint 4 litres of water a day"
+  },
+  {
+    "name": "Exercise",
+    "completed": true,
+    "dailyGoal": "10 pushups"
+  },
+  {
+    "name": "Have food",
+    "completed": false,
+    "dailyGoal": "3 times"
+  },
+  {
+    "name": "Have food!!",
+    "completed": true,
+    "dailyGoal": "2 times"
+  },
+  {
+    "name": "Drink water",
+    "completed": false,
+    "dailyGoal": "3 times a day"
+  },
+  {
+    "name": "Drink water",
+    "completed": true,
+    "dailyGoal": "2 times a day"
+  }
+]

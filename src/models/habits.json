@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1733300485258,
+    "name": "Drink Water",
+    "dailyGoal": "8 glasses",
+    "completed": true
+  },
+  {
+    "id": 1733300615892,
+    "name": "Exercise",
+    "dailyGoal": "3 pushups",
+    "completed": false
+  },
+  {
+    "id": 1733300639726,
+    "name": "Cooking",
+    "dailyGoal": "2 dishes",
+    "completed": true
+  },
+  {
+    "id": 1733301970141,
+    "name": "Eat food",
+    "dailyGoal": "3 times",
+    "completed": true
+  },
+  {
+    "id": 1733302133289,
+    "name": "Exercise!!!",
+    "dailyGoal": "3 situps",
+    "completed": false
+  },
+  {
+    "id": 1733302302004,
+    "name": "Drink water!!!",
+    "dailyGoal": "drint 3 litres of water a day",
+    "completed": false
+  },
+  {
+    "id": 1733303346656,
+    "name": "Drink water!!!",
+    "dailyGoal": "drint 4 litres of water a day",
+    "completed": false
+  },
+  {
+    "id": 1733303370184,
+    "name": "Exercise",
+    "dailyGoal": "10 pushups",
+    "completed": true
+  },
+  {
+    "id": 1733303528282,
+    "name": "Have food",
+    "dailyGoal": "3 times",
+    "completed": false
+  },
+  {
+    "id": 1733303800458,
+    "name": "Have food!!",
+    "dailyGoal": "2 times",
+    "completed": true
+  },
+  {
+    "id": 1733304300197,
+    "name": "Drink water",
+    "dailyGoal": "3 times a day",
+    "completed": false
+  },
+  {
+    "id": 1733304318443,
+    "name": "Drink water",
+    "dailyGoal": "2 times a day",
+    "completed": true
+  },
+  {
+    "id": 1733304402839,
+    "name": "Drink water",
+    "dailyGoal": "1 times a day",
+    "completed": true
+  }
+]
