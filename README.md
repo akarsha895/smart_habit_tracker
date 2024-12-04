@@ -75,6 +75,7 @@ json
     "data": null,
     "error": "Habit not found."
 }
+
 3. Get Habits
 Endpoint: GET /habits
 Response:
@@ -93,6 +94,7 @@ json
 ],
     "error": null
 }
+
 4. Weekly Report
 Endpoint: GET /habits/report
 Response:
